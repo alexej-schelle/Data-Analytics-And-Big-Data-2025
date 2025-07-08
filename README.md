@@ -3,4 +3,5 @@ Repository zum Modul Big Data and Data Analytics an der IU Internationalen Hochs
 
 - Analyse zu einem Standard Datensatz aus der Python Library Seaborn (Angewandte Statistik, ML Modellierung mit SVM und Linearer Regression, PCA-Dimensionsreduktion) : ML-IRIS-Dataset.ipynb
 - GAN Modell zur Darstellung von generativen Netzwerken in der komplexen Zahlenebene : ComplexGAN-main.zip
+- Neuronales Deep Learning Netzwerkmodell zur Vorhersage von Stromverbrauch in Deutschland : NeuronModelEnergy.ipynb
 
